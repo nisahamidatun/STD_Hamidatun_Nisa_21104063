@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/01_Pengenalan_CPP_Bagian_1/GUIDED",
-      "program": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/01_Pengenalan_CPP_Bagian_1/GUIDED/build/Debug/outDebug",
+      "cwd": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/01_Pengenalan_CPP_Bagian_1/TP",
+      "program": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/01_Pengenalan_CPP_Bagian_1/TP/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
