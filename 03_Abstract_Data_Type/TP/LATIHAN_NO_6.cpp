@@ -9,7 +9,7 @@ struct Kerucut {
     float tinggi;  
 };
 
-Kerucut create_kerucut(float r, float t) {
+Kerucut create_kerucut(float r, float t) {          
     Kerucut k;
     k.radius = r;
     k.tinggi = t;
