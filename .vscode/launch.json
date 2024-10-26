@@ -35,8 +35,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/03_Abstract_Data_Type/UNGUIDED/LATIHAN02",
-      "program": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/03_Abstract_Data_Type/UNGUIDED/LATIHAN02/build/Debug/outDebug",
+      "cwd": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/05_Single_Linked_List_Bagian_2/UNGUIDED/single_linked_list",
+      "program": "d:/= Collage/Semester 7/Praktikum Struktur Data/STD_Hamidatun_Nisa_21104063/05_Single_Linked_List_Bagian_2/UNGUIDED/single_linked_list/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
